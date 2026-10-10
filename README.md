@@ -1,56 +1,83 @@
 # Hi, I'm Kunal Shinde 👋
 
-🎓 Information Technology Engineering Student
+🎓 **Information Technology Engineering Student**
 
-💻 Interested in Data Structures & Algorithms, Software Development,
-and Web Technologies.
+💻 Passionate about programming, problem-solving, and software development.
 
-🌱 Currently learning C++, DSA, SQL, and improving my development skills.
+🌱 Currently learning Data Structures & Algorithms (DSA) with C++, SQL, and web technologies.
 
-## 🛠️ Technologies & Tools
+🎯 My goal is to strengthen my programming fundamentals and build practical projects that solve real-world problems.
 
-- **Languages:** C++, Python, SQL
-- **Web Development:** HTML, CSS
-- **Core Concepts:** Data Structures & Algorithms, OOP, DBMS
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** C++, Python, SQL
+- **Web Technologies:** HTML, CSS
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS
 - **Tools:** Git, GitHub, VS Code
+
+---
 
 ## 🚀 Featured Projects
 
-### 📚 LeetCode Solutions
-My solutions to LeetCode problems using C++.
+### 1. 🎒 Campus Lost & Found Management System
 
-[View Repository](https://github.com/kunalshinde2008/leetcode-problems)
+A college project designed to help manage lost and found items on campus.
 
-### 🛒 Amazon Clone
-A frontend project built using HTML and CSS.
+- **Technologies:** Python, Flask, SQL
+- **My Contribution:** Worked on the SQL and database-related aspects.
+- **Development:** AI-assisted development using Claude and other tools.
 
-[View Repository](https://github.com/kunalshinde2008/Amazon_Clone)
+🔗 [View Project Repository](https://github.com/kunalshinde2008/Campus_Lost_Found_Management)
 
-### 🎒 Campus Lost & Found Management
-A college project made by vibe coding for reporting and managing lost and found
-items using Python, Flask, and SQL.
+### 2. 📚 LeetCode Solutions
 
-AI tools assisted in development, and I am continuing to
-improve my understanding of the implementation.
+A collection of my solutions to LeetCode problems using C++ as I practice Data Structures and Algorithms.
 
-USE CLAUDE AI FRO THIS PROJECT !
+- Practice problem-solving and algorithmic thinking.
+- Strengthen my understanding of DSA concepts.
+- Improve code quality and efficiency.
 
-[View Repository](https://github.com/kunalshinde2008/Campus_Lost_Found_Management)
+🔗 [View Repository](https://github.com/kunalshinde2008/leetcode-problems)
 
-### 💻 C++ Practice
-A collection of C++ programs covering programming fundamentals
-and data structures.
+### 3. 🛒 Amazon-Inspired Website
 
-[View Repository](https://github.com/kunalshinde2008/Coding)
+A frontend practice project inspired by an online shopping website.
 
-## 🎯 Current Goals
+- **Technologies:** HTML, CSS
+- Practiced webpage structure, styling, and layout design.
 
-- Solve more DSA problems.
-- Strengthen my SQL and DBMS knowledge.
-- Improve my web development skills.
-- Build practical projects and understand their implementation.
+🔗 [View Repository](https://github.com/kunalshinde2008/Amazon_Clone)
 
-## 📫 Connect With Me
+### 4. 💻 C++ Programming Practice
 
-- [GitHub](https://github.com/kunalshinde2008)
-- [LinkedIn](https://www.linkedin.com/in/kunal-shinde-436298384/)
+A collection of C++ programs covering programming fundamentals and concepts I'm learning.
+
+- Programming basics and control structures
+- Functions, arrays, and pointers
+- Object-Oriented Programming
+- Recursion and STL
+
+🔗 [View Repository](https://github.com/kunalshinde2008/Coding)
+
+---
+
+## 🎯 Current Learning Goals
+
+- 📌 Improve problem-solving skills through regular DSA practice.
+- 📌 Strengthen C++ and algorithmic thinking.
+- 📌 Develop practical SQL and DBMS skills.
+- 📌 Improve web development knowledge.
+- 📌 Build projects and understand their implementation.
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 [GitHub](https://github.com/kunalshinde2008)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kunal-shinde-436298384/)
+
+---
+
+⭐ *Thanks for visiting my profile! I'm always learning and working to improve my skills.*
